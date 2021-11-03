@@ -13,15 +13,6 @@ The current version of the project is able to recognize 299 plants using their f
 
 <br />
 
-## App
-PlantRecog is now available on Google Play Store
-
-<a href="https://play.google.com/store/apps/details?id=com.plantrecog"><img alt="Get it on Google Play" src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" height=60px /></a>
-
-Or get the latest release from [GitHub Release Page](https://github.com/sarthakpranesh/PlantRecog/releases)
-
-<br />
-
 ## Recognition Service
 This is the documentation for the server API that is used in PlantRecog. This server can be hosted online to develop apps that require such a service.
 
@@ -36,9 +27,3 @@ Gyan API - https://github.com/sarthakpranesh/Gyan
 
 <br />
 
-## Issues
-If you come across any issues or have feature requests please open them [here](https://github.com/sarthakpranesh/PlantRecog/issues)
-
-<br />
-
-<h3>Made with ♥</h3>
